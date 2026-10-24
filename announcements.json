@@ -1,6 +1,19 @@
 {
   "announcements": [
-    { "title": "Welcome", "date": "2026-10-23", "body": "First test build is live." },
-    { "title": "Update", "date": "2026-10-25", "body": "New panels added." }
+    {
+      "title": "Welcome",
+      "date": "2026-10-23",
+      "body": "First test build is live."
+    },
+    {
+      "title": "Update",
+      "date": "2026-10-25",
+      "body": "New panels added."
+    },
+    {
+      "title": "1",
+      "date": "2026-10-24",
+      "body": "TEsting 1"
+    }
   ]
 }
